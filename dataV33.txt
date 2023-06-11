@@ -46,12 +46,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://freeimghost.net/i/5DsEW"},
+  {"desc2":"The world of popular music has witnessed the rise of numerous iconic artists throughout history","photo2":"https://freeimghost.net/i/5DbJu"},
+  {"desc3":"Born on January 1, 1995, in Whitman, Massachusetts, Moriah Rose Pereira, known professionally as Poppy, began her career as a singer-songwriter and internet personality","photo3":"https://freeimghost.net/i/5D1l0"},
+  {"desc4":"Her early works primarily revolved around a character called "That Poppy," a seemingly innocent and doll-like persona created for her YouTube channel","photo4":"https://freeimghost.net/i/5D2wC"},
+  {"desc5":"Through a series of bizarre and cryptic videos, Poppy gained attention for her surreal aesthetic and peculiar demeanor","photo5":"https://freeimghost.net/i/5DGzG"},
+  {"descd":"Poppy released her debut studio album, "Poppy.Computer," which marked a significant milestone in her career","photod":"https://freeimghost.net/i/5DMcD"}
    ]
  
 }
